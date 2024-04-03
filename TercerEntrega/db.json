@@ -1,0 +1,107 @@
+[
+        {
+        "id":1,
+        "img":"./statics/press-banca.jpg",
+        "nombre":"Press de banca",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Pecho"
+        },
+        {
+        "id":2,
+        "img":"./statics/barra-t.jpg",
+        "nombre":"Remo barra T",
+        "descripcion":"El remo con barra T y el remo con barra trabajan los músculos de los brazos y la espalda superior. Los laterales, trapecios, romboides, deltoides posterior y los músculos bíceps son todos los involucrados en un ejercicio consecutivo.",
+        "zona":"Espalda"
+        },
+        {
+        "id":3,
+        "img":"./statics/tricepsExtendidos.gif",
+        "nombre":"Triceps Extendidos",
+        "descripcion":"El son todos los involucrados en un ejercicio consecutivo.",
+        "zona":"Triceps"
+        },
+        {
+        "id":4,
+        "img":"./statics/abductor.jpg",
+        "nombre":"Abductor",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Piernas"
+        },
+        {
+        "id":5,
+        "img":"./statics/bicepsConcentrado.jpg",
+        "nombre":"Biceps concentrados",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        },
+        {
+        "id":6,
+        "img":"./statics/espalda.gif",
+        "nombre":"Espalda con barra",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Espalda"
+        },
+        {
+        "id":7,
+        "img":"./statics/fondos.gif",
+        "nombre":"Fondo",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        },
+        {
+        "id":8,
+        "img":"./statics/martillo.jpg",
+        "nombre":"Martillo",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        },
+        {
+        "id":9,
+        "img":"./statics/martilloSentado.jpg",
+        "nombre":"Martillo sentado",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        },
+        {
+        "id":10,
+        "img":"./statics/pesoMuerto.gif",
+        "nombre":"Peso Muerto",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Piernas"
+        },
+        {
+        "id":11,
+        "img":"./statics/prensa.jpg",
+        "nombre":"Prensa",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Piernas"
+        },
+        {
+        "id":12,
+        "img":"./statics/remo.gif",
+        "nombre":"Remo",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Espalda"
+        },
+        {
+        "id":13,
+        "img":"./statics/remoBajo.gif",
+        "nombre":"Remo bajo",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Espalda"
+        },
+        {
+        "id":14,
+        "img":"./statics/Triceps.jpg",
+        "nombre":"Triceps",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        },
+        {
+        "id":15,
+        "img":"./statics/tricepsExtendidos.gif",
+        "nombre":"Triceps extendidos",
+        "descripcion":"Ejercicio de peso libre que trabaja principalmente la zona superior del cuerpo",
+        "zona":"Brazos"
+        }
+]

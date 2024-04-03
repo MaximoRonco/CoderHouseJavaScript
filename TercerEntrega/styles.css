@@ -1,0 +1,262 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Formulario de inicio de sesion*/
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.form-back{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+    box-shadow: 1px 5px 20px black;
+    border-radius: 5px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.input-text{
+    margin: 10px;
+    width: 60%;
+    height: 50px;
+    font-size: 20px;
+    font-weight:600;
+    padding-left: 10px;
+}
+
+.recordar{
+    margin: 10px;
+    display: inline-block;
+}
+
+.recordar label{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.recordar input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin-left: 10px;
+    vertical-align:text-bottom
+}
+
+
+#iniciar, #registrar{
+    margin-top: 40px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+#iniciar:hover, #registrar:hover, .agg:hover{
+    background-color: black;
+    transition: all 500ms;
+}
+
+.form-back h1{
+    margin-top: 10px;
+}
+
+/* Fin de Form de inicio de sesión */
+
+/* Inicio Loading*/
+
+/*.display-none{
+    display: none ;
+}
+
+#loading {
+    display: none !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.637); 
+    color: white;
+    z-index: 9999; 
+}*/
+
+/* Fin loading*/
+
+/* Inicio form de registro */
+
+#form-reg{
+    height: 500px;
+}
+
+/*-- fin registrar --*/
+
+/* Inicio Home */
+
+/* Header */
+
+header{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 20px;
+    box-shadow: 0px 4px 4px black;
+}
+
+.logo img{
+    width: 70px;
+    height: 70px;
+    float: left;
+    border-radius: 100%;
+    border: 1px solid red;
+}
+
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+
+ul li{
+    margin-left: 50px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#busqueda{
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+#icono-busqueda {
+    font-size: 18px !important; /* Cambia el tamaño del icono */
+}
+
+/*Maquinas*/
+.contenedor h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#cont-maquinas, #mis-maquinas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    box-shadow: 0px 2px 8px black;
+    overflow: hidden;
+    
+}
+
+.card img{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 10px;
+}
+
+.card button{
+    width: 100px;
+    font-weight: 700;
+    margin: 0 auto;
+}
+
+.control{
+    display: flex;
+}
+
+.control p{
+    font-weight: bold;
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.kg{
+    font-size: 20px;
+}
+
+/* Mis maquinas*/
+
+
+/**/
+
+
+/* Fin Home */
+
+/*Cargando*/
+.none{
+    display: none !important;
+}
+
+.block{
+    display: block !important;
+}
+
+#cargando{
+    height: 100vh;
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-color: rgb(255, 255, 255);
+}
+
+.cargando{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/**/
